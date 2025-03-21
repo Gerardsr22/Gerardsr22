@@ -1,5 +1,9 @@
 # Hola soc en Gerard.
 
-Aquí podreu veure el meu progrés en programació.
+Currently working on:
 
-Cambios de prueba
+- HTML
+- CSS
+- Javascript
+- SQL (PostreSQL)
+  
