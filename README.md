@@ -1,9 +1,9 @@
 # Hola soc en Gerard.
 
-Currently working on:
-
-- HTML
-- CSS
-- Javascript
-- SQL (PostreSQL)
+Estudiant de informàtica.
+Actualment experimentant amb les següents tecnologies:
+- HTML, CSS
+- Javascript (nodeJS, expressJS)
+- TypeScript
+- SQL(PostgreSQL)
   
