@@ -1,6 +1,6 @@
 # Hola soc en Gerard.
 
-Estudiant de informàtica.
+Estudiant d'informàtica.
 Actualment experimentant amb les següents tecnologies:
 - HTML, CSS
 - Javascript (nodeJS, expressJS)
